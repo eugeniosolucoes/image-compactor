@@ -1,1 +1,4 @@
-fotos-originais
+fotos-originais/
+fotos-compactadas/
+target/
+*.log
